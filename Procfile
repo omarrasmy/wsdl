@@ -1,0 +1,1 @@
+web: node wsdlConverter.js
