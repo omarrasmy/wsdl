@@ -6,7 +6,8 @@
     "node": "12.14.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "bower install && grunt build",
+    "start": "nf start"
   },
   "author": "radwa yasser",
   "license": "ISC",
